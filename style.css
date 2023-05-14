@@ -1,3 +1,12 @@
 h1, p {
   font-family: Lato;
 }
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0px;
+  scroll-behavior: smooth;
+}
